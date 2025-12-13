@@ -11,7 +11,7 @@ This application provides a generic and configurable integration framework to fe
 - Calendly integration implemented
 
 ## Tech Stack
-- Java 15
+- Java 11
 - Spring Boot 2.7
 - Spring Data JPA
 - H2 Database
