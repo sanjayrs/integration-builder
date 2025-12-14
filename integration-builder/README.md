@@ -16,6 +16,9 @@ This application provides a generic and configurable integration framework to fe
 - Spring Data JPA
 - H2 Database
 
+## Configuration (Important)
+Before running the application, update the Calendly API token in data.sql.
+
 ## APIs
 - Fetch users:
   GET /integrations/{integrationName}/fetch-users
