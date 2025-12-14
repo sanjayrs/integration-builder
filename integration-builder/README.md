@@ -27,6 +27,3 @@ This application provides a generic and configurable integration framework to fe
 1. Start the application
 2. Open H2 console: http://localhost:8081/h2-console
 3. Call the fetch users API for Calendly
-
-## Assignment Status
-All assignment requirements are fully implemented.
